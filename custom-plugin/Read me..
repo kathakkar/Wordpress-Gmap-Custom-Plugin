@@ -1,0 +1,6 @@
+ A WORDPRESS PLUGIN THAT DOES ALL OF THE FOLLOWING.
+- Allows users to manage a custom post type that stores locations. 
+- Allows users to drag a marker on a map inside of a custom meta box. When the user saves the location, the pin’s coordinates 
+(as well as the map’s current zoom level and bounds) should be saved. This way, 
+- if the user comes back later, it looks identical. 
+- Allows the location (and all of its information) to be embedded inside of a post or page via the shortcodes API. 
